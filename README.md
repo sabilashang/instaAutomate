@@ -29,10 +29,10 @@ instaAutomate uses the `pyautogui` library to simulate mouse movements and click
 4. Run the program and switch to the Instagram Window
    - python instaAutomate.py
 
-⚠️ License:
+## ⚠️ License:
 This project is under No License: This code is for personal use only. Copying, modifying, or using this code for academic, commercial, or other purposes is not permitted.
 
-📫 Contact:
+## 📫 Contact:
 Feel free to reach out if you have any questions!
-
+----------------------------------------------------------------------------------------------------------------------------
 Instagram: [@sabilashan_g](https://www.instagram.com/sabilashan_g/)

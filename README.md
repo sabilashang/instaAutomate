@@ -15,3 +15,24 @@ instaAutomate uses the `pyautogui` library to simulate mouse movements and click
 - ⚖️ **Comparison of Lists**: Compares the two lists and identifies who isn’t following you back.
 - 💾 **Saves Results**: Outputs the list of non-followers to a file called `Bandits.txt`.
 - 💻 **Runs on Your Local Machine**: No need to upload your credentials or share data with third-party servers.
+
+## 📋 Requirements:
+- Python 3.x
+
+## 🖥️ Usage:
+1. Clone the repository and navigate to the folder
+   - git clone https://github.com/sabilashang/instaAutomate
+   - cd instaAutomate
+2. Install the required dependencies by running:
+   - pip install -r requirements.txt
+3. Log in to your Instagram account on the desktop in a browser.
+4. Run the program and switch to the Instagram Window
+   - python instaAutomate.py
+
+⚠️ License:
+This project is under No License: This code is for personal use only. Copying, modifying, or using this code for academic, commercial, or other purposes is not permitted.
+
+📫 Contact:
+Feel free to reach out if you have any questions!
+
+Instagram: [@sabilashan_g](https://www.instagram.com/sabilashan_g/)

@@ -21,13 +21,13 @@ instaAutomate uses the `pyautogui` library to simulate mouse movements and click
 
 ## 🖥️ Usage:
 1. Clone the repository and navigate to the folder
-   - ``` git clone https://github.com/sabilashang/instaAutomate```
-   - cd instaAutomate
+   ```git clone https://github.com/sabilashang/instaAutomate```
+   ```cd instaAutomate```
 2. Install the required dependencies by running:
-   - pip install -r requirements.txt
+   ```pip install -r requirements.txt```
 3. Log in to your Instagram account on the desktop in a browser.
 4. Run the program and switch to the Instagram Window
-   - python instaAutomate.py
+   ```python instaAutomate.py```
 
 ## ⚠️ License:
 This project is under No License: This code is for personal use only. Copying, modifying, or using this code for academic, commercial, or other purposes is not permitted.

@@ -21,7 +21,7 @@ instaAutomate uses the `pyautogui` library to simulate mouse movements and click
 
 ## 🖥️ Usage:
 1. Clone the repository and navigate to the folder
-   - git clone https://github.com/sabilashang/instaAutomate
+   - ``` git clone https://github.com/sabilashang/instaAutomate```
    - cd instaAutomate
 2. Install the required dependencies by running:
    - pip install -r requirements.txt
@@ -34,5 +34,4 @@ This project is under No License: This code is for personal use only. Copying, m
 
 ## 📫 Contact:
 Feel free to reach out if you have any questions!
-----------------------------------------------------------------------------------------------------------------------------
-Instagram: [@sabilashan_g](https://www.instagram.com/sabilashan_g/)
+**Instagram**: [@sabilashan_g](https://www.instagram.com/sabilashan_g/)
